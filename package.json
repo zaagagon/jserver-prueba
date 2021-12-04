@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/zaagagon/jserver-prueba/issues"
   },
-  "homepage": "https://github.com/zaagagon/jserver-prueba#readme"
+  "homepage": "https://github.com/zaagagon/jserver-prueba#readme",
+  "devDependencies": {
+    "json-server": "^0.17.0"
+  }
 }
