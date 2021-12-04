@@ -1,0 +1,13 @@
+{
+    "vengadores": [
+      {
+        "id": 1,
+        "nombre": "Steve Rogers",
+        "nick":"Capitan America"
+      }
+    ],
+    "peliculas": {
+        "id":1,
+      "titulo": "soldado del invierno"
+    }
+  }
