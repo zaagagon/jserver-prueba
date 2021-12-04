@@ -8,6 +8,7 @@
     ],
     "peliculas": {
         "id":1,
-      "titulo": "soldado del invierno"
+      "titulo": "soldado del invierno",
+      "año":2000
     }
   }
