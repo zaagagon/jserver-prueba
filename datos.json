@@ -6,9 +6,17 @@
         "nick":"Capitan America"
       }
     ],
-    "peliculas": {
+    "peliculas":[ {
         "id":1,
       "titulo": "soldado del invierno",
       "año":2000
+    } ,{
+
+        "":2,
+        "titulo": "nucita",
+        "año":2004
     }
+  ]
+
   }
+  
